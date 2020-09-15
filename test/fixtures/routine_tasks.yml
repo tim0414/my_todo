@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  uid: 
+  status: 
+  due_date: 
+  routine_task_info_id: 1
+
+two:
+  uid: 
+  status: 
+  due_date: 
+  routine_task_info_id: 1
